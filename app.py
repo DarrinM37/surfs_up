@@ -1,4 +1,3 @@
-
 #import dependencies
 import datetime as dt
 import numpy as np
