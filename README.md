@@ -7,7 +7,8 @@ This project explores the power of Advanced Data Storage and Retrieval to effice
 
 **Deliverable 1: Determine the Summary Statistics for June Deliverable 
 
-<img width="194" alt="Rain in June Stats" src="https://user-images.githubusercontent.com/105955544/185818147-877d91c3-9a41-414b-b3ee-1cd1b7cac22f.png">
+<img width="194" alt="June Temps" src="https://user-images.githubusercontent.com/105955544/185820059-041a50da-2833-47af-aafc-f124b51aabea.png">
+
 
 **2: Determine the Summary Statistics for December Deliverable 
 
@@ -26,3 +27,5 @@ Here are the takeaways between the two months-
 The weather in June and  December are relativly  very similar, although December has a wider range of results.  With its high's being close to June's but, its low's well below June's
 
 Additional queries that could help determin if ice cream and surfing all year is visable is Precipation. The difference between June and December to determine if one has more rainy weather. Also, veifiy at different stations as we may see higher/lower temperatures and precipitation levels at different locations. We would be primarily interested in the weather station closest to our prospective location, which would narrow the results and provide the best data for us to consider.
+
+<img width="165" alt="Prcp in December" src="https://user-images.githubusercontent.com/105955544/185819896-3a3c22fd-4149-41f7-961b-5674018c1aa9.png">
