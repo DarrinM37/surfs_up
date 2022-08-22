@@ -15,11 +15,11 @@ This project explores the power of Advanced Data Storage and Retrieval to effice
 
 Here are the takeaways between the two months-
 
+-Minimum temperature in June is 64 degrees and 56 degrees in December which shows the greatest variance, and reflects a much lower temperature level in December. However, with standard deviations of 3.25 in June and 3.74 December we would expect a little more variation in the december numbers.
+
 -Average temperature between June and December is 75 and 71 degrees. Respectively, they show a moderate temperature and very little fluctuation between the two months.
 
 -Maximum temperatures in June is 85 degresss and 83 in December which are similar.
-
--Minimum temperature in June is 64 degrees and 56 degrees in December which shows the greatest variance, and reflects a much lower temperature level in December. However, with standard deviations of 3.25 in June and 3.74 December we would expect a little more variation in the december numbers.
 
 **3: A written report for the statistical analysis (README.md)
 
